@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning js py html c++ and more
 - 💞️ I’m looking to collaborate on  java js py html c++ and more
 - 📫 How to reach me    flguaman@sudamericano.edu.ec  OR  guamanfreddy1997@gmail.com
-- 😄 Pronouns: papi
+- 😄 Pronouns: he
 - ⚡ Fun fact🤾‍♂️
 
 <!---
